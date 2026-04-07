@@ -1,11 +1,11 @@
-# 🛒 E-Commerce Data Analysis (SQL + Python)
+#  E-Commerce Data Analysis (SQL + Python)
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on analyzing an e-commerce dataset using **SQL and Python** to extract meaningful business insights. The analysis covers customer behavior, sales trends, product performance, and retention metrics.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Extract fundamental insights from data
 - Analyze sales trends and customer behavior
 - Generate advanced business insights
@@ -13,7 +13,7 @@ This project focuses on analyzing an e-commerce dataset using **SQL and Python**
 
 ---
 
-## 🗂️ Dataset Description
+##  Dataset Description
 The dataset consists of multiple CSV files:
 
 - **customers.csv** → Customer demographic details  
@@ -26,14 +26,14 @@ The dataset consists of multiple CSV files:
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 - **SQL (MySQL Workbench)** → Data querying  
 - **Python (Pandas, Matplotlib)** → Data analysis & visualization  
 - **Google Colab / Jupyter Notebook** → Execution environment  
 
 ---
 
-## 🟢 Basic Analysis (SQL)
+##  Basic Analysis (SQL)
 - Unique customer cities  
 - Orders placed in 2017  
 - Total sales per category  
@@ -42,7 +42,7 @@ The dataset consists of multiple CSV files:
 
 ---
 
-## 🟡 Intermediate Analysis
+##  Intermediate Analysis
 - Monthly order trends (2018)  
 - Average products per order by city  
 - Revenue contribution by category  
@@ -51,7 +51,7 @@ The dataset consists of multiple CSV files:
 
 ---
 
-## 🔴 Advanced Analysis
+##  Advanced Analysis
 - Moving average of customer order values  
 - Cumulative monthly sales  
 - Year-over-year growth rate  
@@ -60,7 +60,7 @@ The dataset consists of multiple CSV files:
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 - Revenue is concentrated in a few product categories  
 - Certain states dominate the customer base  
 - Installment payments form a significant portion of transactions  
@@ -68,5 +68,3 @@ The dataset consists of multiple CSV files:
 - Customer retention plays a key role in long-term growth  
 
 ---
-
-## 📁 Project Structure
